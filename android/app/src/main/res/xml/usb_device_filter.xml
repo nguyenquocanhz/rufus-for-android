@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB Mass Storage, SCSI transparent, Bulk-Only Transport.
+         Android so khớp cả class của từng interface, nên USB khai báo class ở interface vẫn khớp. -->
+    <usb-device class="8" subclass="6" protocol="80" />
+</resources>
